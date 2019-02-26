@@ -1,7 +1,7 @@
 [package]
 name = "nascent-os"
 version = "0.1.0"
-authors = ["RJ Rybarczyk <rj@rybar.tech>"]
+authors = ["RJ Rybarczyk <rj@rybar.tech>, Alex Segura <alex@lispm.dev>"]
 edition = "2018"
 
 [dependencies]
